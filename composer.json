@@ -1,0 +1,13 @@
+{
+    "name": "markuskoehler/sistem",
+    "description": "System Monitoring for Laravel apps",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Markus Koehler",
+            "email": "info@koehler.pro"
+        }
+    ],
+    "require": {}
+}
